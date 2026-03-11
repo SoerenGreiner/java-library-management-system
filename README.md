@@ -42,7 +42,7 @@ A library management system demo in Java. Since this was a project developed in 
 
 ### Frameworks & UI ⚙️
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" width="40" title="JavaFX"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="JavaFX UI"/>
 </p>
 
 ### Build Tools 📦
@@ -56,7 +56,7 @@ A library management system demo in Java. Since this was a project developed in 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
 </p>
 
-## Excepts
+## Screenshots
 ![Result](Media/dokument1.png)
 ![Result](Media/dokument2.png)
 ![Result](Media/dokument3.png)
